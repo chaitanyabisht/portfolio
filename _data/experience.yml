@@ -3,9 +3,7 @@
 - company: Cosmosnets
   position: Web Development Intern
   duration: August, 2021 &mdash; Present
-  summary: - Built a custom authentication flow with help of AWS Cognito.
-- Developed frontend UI interface for the webpage using React
-and AWS Amplify.
+  # summary: - Built a custom authentication flow with help of AWS Cognito.<br>Developed frontend UI interface for the webpage using React and AWS Amplify.
 
 # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
