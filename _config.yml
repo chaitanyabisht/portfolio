@@ -18,12 +18,12 @@ resume_contact_email:           "chaitanya.bisht10@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "9717584030"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_address:         "IIT Bhilai"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi There, I am Chaitanya</p>"
+resume_header_intro: "<p>Hi There, I am Chaitanya I am passionate to solve problems in day to day life by harnessing the potential of computer tools available at our disposal. I am keen to learn new things and open to opportunities that would sharpen my problem solving skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -33,26 +33,26 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+# resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_skills:          true
+# resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/chaitanyabisht"
-  resume_twitter_url:           ""
-  resume_dribbble_url:          ""
+  resume_twitter_url:           "#"
+  resume_dribbble_url:          "#"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/cbisht"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://cbisht.in"
-  resume_medium_url:            ""
+  resume_medium_url:            "#"
 resume_print_social_links:      true
 
 # Design settings
