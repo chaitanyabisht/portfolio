@@ -23,7 +23,7 @@ resume_contact_address:         "IIT Bhilai"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi There, I am Chaitanya I am passionate to solve problems in day to day life by harnessing the potential of computer tools available at our disposal. I am keen to learn new things and open to opportunities that would sharpen my problem solving skills.</p>"
+resume_header_intro: "<p>Hi There, I am Chaitanya <br>I am passionate to solve problems in day to day life by harnessing the potential of computer tools available at our disposal. I am keen to learn new things and open to opportunities that would sharpen my problem solving skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
